@@ -9,7 +9,7 @@ To install and run this application, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/ryanklapperhakkoda/sql_parser.git
    ```
 
 2. **Navigate to the project directory:**
